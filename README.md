@@ -1,6 +1,6 @@
 Report in Pandas analyzing video game in-game purchase data for a fictionaly fantasy game called Heroes of Pymoli. The Report includes the following information:
 
-* Total Number of Players
+Total Number of Players
 
 * Number of Unique Items
 * Average Purchase Price
@@ -11,13 +11,13 @@ Report in Pandas analyzing video game in-game purchase data for a fictionaly fan
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
-* The below each broken by gender
+The below each broken by gender
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
 
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
