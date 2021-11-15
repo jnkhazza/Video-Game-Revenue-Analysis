@@ -1,4 +1,4 @@
-Report in Pandas analyzing video game in-game purchase data for a fictionaly fantasy game called Heroes of Pymoli. The Report includes the following information:
+Report in Pandas analyzing video game in-game purchase data for a fictional fantasy game called Heroes of Pymoli. The Report includes the following information:
 
 Total Number of Players
 
